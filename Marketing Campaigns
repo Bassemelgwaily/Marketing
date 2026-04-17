@@ -1,0 +1,37 @@
+Marketing Performance Analysis Dashboard
+Project Overview
+This project features a comprehensive Marketing Analytics Dashboard designed to track and evaluate the performance of various advertising channels and campaigns. The dashboard provides actionable insights into revenue generation, cost management, and customer acquisition efficiency.
+
+Key Business Questions Addressed
+The dashboard is structured to answer critical business questions:
+
+Financial Health: What is the total profitability, and how do costs relate to total revenue?
+
+Channel Performance: Which marketing categories (Influencer, Social, Media, Search) are driving the highest volume of orders?
+
+Campaign Granularity: Which specific campaigns (e.g., YouTube Bloggers vs. Instagram Tiers) are performing best in terms of conversion?
+
+Acquisition Strategy: How is the budget distributed across different acquisition channels?
+
+Trend Analysis: Are there specific periods of high performance or sudden drops in revenue throughout the month?
+
+Dashboard Features
+High-Level KPIs: Real-time tracking of Total Revenue, Total Cost, Total Orders, and Profit.
+
+Dynamic Filtering: Integrated slicers for categories to allow deep-diving into specific data segments.
+
+Time-Series Analysis: A line chart visualizing daily revenue trends to identify seasonal patterns or campaign impact.
+
+Comparative Analysis: Bar charts for a side-by-side comparison of campaign success and acquisition costs.
+
+Technical Skills Demonstrated
+Data Visualization: Using professional layouts with high-contrast themes for better readability.
+
+Business Intelligence: Translating raw marketing data into strategic insights.
+
+KPI Development: Defining and calculating essential marketing metrics like ROI and Acquisition spread.
+
+Insights & Recommendations
+Efficiency: While 'Social' has the highest acquisition spend, 'Influencer' channels show comparable order volume, suggesting a higher ROI in influencer marketing.
+
+Optimization: The revenue peak observed around February 20th indicates a successful mid-month push that could be replicated in future strategies.
